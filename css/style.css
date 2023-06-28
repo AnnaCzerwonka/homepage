@@ -1,0 +1,46 @@
+html {
+    box-sizing: border-box;
+}
+
+*,
+::after,
+::before {
+    box-sizing: inherit;
+}
+
+.body {
+    font-family: 'Lato', sans-serif;
+    margin: 20px;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 1.5;
+}
+
+.button {
+    font-family: 'Lato', sans-serif;
+    background: #1a9dda;
+    border: groove rgba(145, 156, 219, 0.979);
+    padding: 8px;
+    color: rgb(242, 243, 247);
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.button:disabled {
+    cursor: not-allowed;
+}
+
+.button:hover {
+    color: #386e92
+}
+
+.button :focus {
+    border: 3px solid #a3c3d8
+}
+
+.body--brightDark {
+    background-color: #197ec2;
+    color: white
+}
+
+

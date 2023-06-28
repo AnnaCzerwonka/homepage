@@ -1,0 +1,44 @@
+.table {
+    font-family: 'Lato', sans-serif;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.caption {
+    font-weight: 700;
+    line-height: 1.5;
+    padding: 30px;
+    border-bottom: 20px;
+    text-align: left;
+}
+
+.table__caption {
+    padding-bottom: 30 50px;
+    caption-side: border-bottom;
+    padding: 0 20px;
+    margin-top: 0 20px;
+    font-weight: bold;
+    background-color: rgb(251, 255, 255);
+    color: white;
+    text-shadow: #386e92;
+}
+
+.table__row:nth-child(even) {
+    background: #c6e1ee;
+}
+
+.table__row:hover {
+    background: #d2e9f3;
+}
+
+.table__cell {
+    padding: 15px;
+    text-align: center;
+    border: 1px solid #ccc;
+}
+
+.table__header {
+    background-color: rgb(36, 147, 180);
+    color: rgb(240, 230, 230);
+    font-weight: normal;
+}

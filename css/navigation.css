@@ -1,0 +1,22 @@
+.navigation__item {
+    padding: 0;
+    margin: 0 auto;
+    list-style: none;
+}
+
+.navigation__link {
+    padding: 0;
+    margin: 0 auto;
+    text-decoration: none;
+    color: rgb(51 110 108);
+}
+
+.navigation__link:hover {
+    border-bottom: 1px solid;
+    color: rgb(46, 15, 75);
+    outline: none;
+}
+
+.navigation__link :active {
+    color: #923874;
+}

@@ -1,5 +1,6 @@
 .container {
     padding: 0 30px;
+    text-align: justify;
     max-width: 900px;
     margin: 0 auto;
 }

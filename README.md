@@ -3,4 +3,4 @@
 ## Demo
 https://annaczerwonka.github.io/homepage/
 
-![.] (https://raw.githubusercontent.com/AnnaCzerwonka/homepage/main/images/Homepage%20(1).gif)
+[![Homepage-1.gif](https://i.postimg.cc/x8fbWVc7/Homepage-1.gif)](https://postimg.cc/Q9ztTPgk)
